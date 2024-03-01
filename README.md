@@ -3,6 +3,7 @@
 ● 팀장 : 이도훈
 
 ● 팀원 : 박주연, 정재연, 임나연, 양태성 
+
 ![image](https://github.com/TaeseongYang/Zigzag_project/assets/156265617/40e9ab92-6c91-4245-ae3a-b843729142be)
 
 
