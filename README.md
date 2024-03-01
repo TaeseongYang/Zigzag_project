@@ -3,7 +3,8 @@
 ● 팀장 : 이도훈
 
 ● 팀원 : 박주연, 정재연, 임나연, 양태성 
-![image](https://github.com/TaeseongYang/Zigzag_project/assets/156265617/55e596dc-de3d-490c-a8bc-058e333fbf6e)
+![image](https://github.com/TaeseongYang/Zigzag_project/assets/156265617/40e9ab92-6c91-4245-ae3a-b843729142be)
+
 
 
 # 프로젝트 주제 : 리뷰 데이터 기반 서비스 제공 및 상품 분석 
