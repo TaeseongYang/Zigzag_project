@@ -1,1 +1,1 @@
-# Zigzag_project
+# Zigzag_project입니다.
