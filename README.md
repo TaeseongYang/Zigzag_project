@@ -80,6 +80,11 @@
 |가격|92|
 |두께|83|
 
-<대시보드를 통한 시각화 : 정재연>
+<대시보드를 통한 시각화 거의 구현 완료 : 정재연>
 
-<img src="https://github.com/TaeseongYang/Zigzag_project/assets/156265617/92bd3585-dd82-4d2d-ba88-1a16ed7c690b" width="500" height="500"/>
+![대시보드_1](https://github.com/TaeseongYang/Zigzag_project/assets/156265617/21ecabef-446a-40c7-99a3-c56921d46d36)
+
+![제목_2](https://github.com/TaeseongYang/Zigzag_project/assets/156265617/9f2b82dc-7bc9-4862-a6da-5607a2786078)
+
+
+
